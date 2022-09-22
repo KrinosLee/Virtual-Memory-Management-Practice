@@ -1,3 +1,4 @@
-# CMPSCProject3
+# Repo for Virtual Memory Management Practice in Operating Systems
 
-Please find the project description here: https://docs.google.com/document/d/14PkFF4idvTlucsVULVwUkChZxvG78FIRbToA-yCL4MM/edit?ts=604bd3e6
+
+Please find the project description at Virtual Memory Management.pdf in this repo
